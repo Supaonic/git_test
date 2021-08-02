@@ -1,0 +1,1 @@
+This is NOT my first project but I'm learning fundamentals!
